@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me -> Kandmiller@gmail.com
 
-- 📲  Each project has a brief gif uploaded to preview, check it out!
+- 📲  Each completed project has a brief gif uploaded to preview, check it out!
 
 <!---
 KyleTheeDev/KyleTheeDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
